@@ -3,7 +3,7 @@ FLAGS =  -mmcs51 --model-small
 #FILENAME  == project.c
 FILENAME = source
 MAKEHEX = packihx
-SRC = src
+SRC = .
 
 #sdcc -mmcs51 --model-small hw.c
 
